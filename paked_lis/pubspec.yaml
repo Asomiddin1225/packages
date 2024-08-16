@@ -1,9 +1,9 @@
 name: paked_lis
-publish_to: "https://github.com/Asomiddin1225/packages"
+publish_to: "https://pub.dev"
 description: The kvyuzi function is a simple mathematical takes a singleze. This makes it a reliable choice for performance-critical applications that require repeated squaring operations.
 version: 1.1.0
-repository: https://github.com/Asomiddin1225/packages
-homepage: https://github.com/Asomiddin1225/packages
+repository: "https://github.com/Asomiddin1225/packages/tree/main/paked_lis"
+homepage: "https://github.com/Asomiddin1225/packages/tree/main/paked_lis"
 
 
 environment:
