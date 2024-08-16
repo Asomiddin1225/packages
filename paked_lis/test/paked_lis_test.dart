@@ -1,7 +1,5 @@
-
-
-import 'package:paked_lis/paked_lis.dart';
 import 'package:test/test.dart';
+import 'package:paked_lis/paked_lis.dart';
 
 void main() {
   group('StringListFinder tests', () {
