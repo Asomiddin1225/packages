@@ -26,7 +26,7 @@ Ushbu paketni loyihangizga qo'shish uchun `pubspec.yaml` faylingizga quyidagilar
 
 ```yaml
 dependencies:
-  paket_nomi: ^1.1.0
+  paked_lis: ^1.1.0
 
 
 TODO: Put a short description of the package here that helps potential users
@@ -52,9 +52,9 @@ void main() {
   StringListFinder topuvchi = StringListFinder();
   int indeks = topuvchi.findIndexOfWord(mashinalar, so'z);
 
-  print("'$so'z' so'zining indeksi: $indeks");
-  // Natija: 'Lasseti' so'zining indeksi: 2
- }
+  print("'$soz' so'zining indeksi: $indeks");
+  // Natija: 'Lasseti' so'zining indeksi: 2}
+  
 
 
 ## Additional information
