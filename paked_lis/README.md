@@ -26,7 +26,7 @@ Ushbu paketni loyihangizga qo'shish uchun `pubspec.yaml` faylingizga quyidagilar
 
 ```yaml
 dependencies:
-  paket_nomi: ^1.0.0
+  paket_nomi: ^1.1.0
 
 
 TODO: Put a short description of the package here that helps potential users

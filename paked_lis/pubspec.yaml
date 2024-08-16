@@ -1,7 +1,9 @@
 name: paked_lis
-description: A starting point for Dart libraries or applications.
-version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+description: The kvyuzi function is a simple mathematical takes a singleze. This makes it a reliable choice for performance-critical applications that require repeated squaring operations.
+version: 1.1.0
+repository: https://github.com/Asomiddin1225/packages
+homepage: https://github.com/Asomiddin1225/packages
+
 
 environment:
   sdk: ^3.5.0
@@ -13,3 +15,5 @@ dependencies:
 dev_dependencies:
   lints: ^4.0.0
   test: ^1.24.0
+
+license: MIT
